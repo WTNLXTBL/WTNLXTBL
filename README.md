@@ -1,7 +1,7 @@
-Hi, I’m @WTNLXTBL, a student from China
-I’m interested in programming
-I’m currently learning shell
-You can find on Telegram.
+ - Hi, I’m @WTNLXTBL, a student from China
+ - I’m interested in programming
+ - I’m currently learning shell
+ - You can find on Telegram.
 link: t.me/WTNLXTBL
 
 <!---
