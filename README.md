@@ -1,6 +1,5 @@
- - Hi, I’m @WTNLXTBL, a student from China
- - I’m interested in programming
- - I’m currently learning shell
+ - Hi, I’m WTNLXTBL, a student from China
+ - I’m interested in programming and I’m  learning programming with Github.
  - You can find on Telegram.
 link: t.me/WTNLXTBL
 
