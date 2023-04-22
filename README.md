@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WTNLXTBL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @WTNLXTBL, a student from China
+I’m interested in programming
+I’m currently learning shell
+You can find on Telegram.
+link: t.me/WTNLXTBL
 
 <!---
 WTNLXTBL/WTNLXTBL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
