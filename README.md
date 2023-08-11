@@ -1,8 +1,4 @@
-# About me
- - Hi, I’m WTNLXTBL, a student from China
- - I’m interested in programming and I’m  learning programming with Github.
- - You can find me on Telegram.
-link: t.me/WTNLXTBL
+[![WTNLXTBL's GitHub stats](https://readme-stats-sand-five.vercel.app/api?username=WTNLXTBL)](https://github.com/WTNLXTBL/Readme-Stats)
 
 <!---
 WTNLXTBL/WTNLXTBL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
